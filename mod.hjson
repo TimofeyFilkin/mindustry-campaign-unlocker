@@ -1,5 +1,5 @@
-displayName: "Campain unlocker"
-name: "campain-unlocker"
+displayName: "Campaign unlocker"
+name: "campaign-unlocker"
 description: "Unlocks sources and voids in campagin."
 version: 1.0
 minGameVersion: 145
